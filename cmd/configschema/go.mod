@@ -12,7 +12,7 @@ require (
 	go.opentelemetry.io/collector/component v0.66.1-0.20221202005155-1c54042beb70
 	go.opentelemetry.io/collector/receiver/otlpreceiver v0.66.1-0.20221202005155-1c54042beb70
 	golang.org/x/mod v0.6.0
-	golang.org/x/text v0.4.0
+	golang.org/x/text v0.7.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
@@ -642,11 +642,11 @@ require (
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20220617031537-928513b29760 // indirect
 	golang.org/x/crypto v0.1.0 // indirect
 	golang.org/x/exp v0.0.0-20221019170559-20944726eadf // indirect
-	golang.org/x/net v0.1.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/oauth2 v0.1.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.2.0 // indirect
-	golang.org/x/term v0.1.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/term v0.5.0 // indirect
 	golang.org/x/time v0.0.0-20220922220347-f3bd1da661af // indirect
 	golang.org/x/tools v0.2.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
